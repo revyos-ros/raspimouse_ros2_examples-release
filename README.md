@@ -1,3 +1,26 @@
+## raspimouse_ros2_examples (humble) - 2.2.1-2
+
+The packages in the `raspimouse_ros2_examples` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r humble raspimouse_ros2_examples --override-release-repository-push-url git@github.com:revyos-ros/raspimouse_ros2_examples-release.git` on `Mon, 23 Sep 2024 14:05:40 -0000`
+
+The `raspimouse_ros2_examples` package was released.
+
+Version of package(s) in repository `raspimouse_ros2_examples`:
+
+- upstream repository: https://github.com/rt-net/raspimouse_ros2_examples.git
+- release repository: https://github.com/revyos-ros/raspimouse_ros2_examples-release.git
+- rosdistro version: `2.2.1-2`
+- old version: `2.2.1-1`
+- new version: `2.2.1-2`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## raspimouse_ros2_examples (humble) - 2.2.1-1
 
 The packages in the `raspimouse_ros2_examples` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r humble raspimouse_ros2_examples --override-release-repository-push-url git@github.com:revyos-ros/raspimouse_ros2_examples-release.git` on `Mon, 23 Sep 2024 14:04:42 -0000`
